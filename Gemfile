@@ -47,6 +47,7 @@ group :test do
 end
 
 gem 'passenger'
+gem 'bootstrap-sass', '2.0.0'
 group :production do
 	gem 'mysql2', '~>0.3.18'
 end
